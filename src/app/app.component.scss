@@ -1,0 +1,143 @@
+
+.navbar-brand{
+  margin-left: 10px;
+}
+#navbar{
+  background-color:#1fa704;
+}
+td,
+th,
+tr
+{
+   text-align: center;
+}
+
+.container1, .container2
+{
+  max-width: 9000px;
+  height: 100%;
+  margin: auto;
+  background-color: white;
+  padding: 4px;
+}
+.container2 {
+  padding: 16px;
+}
+
+#cel, #actu
+{
+    background-color : #1fa704;
+    border :#1fa704;
+}
+
+
+.custom-select{
+    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.custom-control-label1{
+  margin-right: 10px;
+}
+
+.section_filtre
+{
+    background-color: #C7E4A4;
+}
+#checkbox
+{
+    font-size: 21px;
+    
+}
+#checkbox2
+{
+    font-size: 16px;
+}
+#tabcenter{
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 98%;
+ }
+ #tabGauche
+ {
+    width: 20%;
+ }
+ #tabdroit
+ {
+    width: 10%;
+    background-color : #1fa704;
+    border :rgbrgb(23, 160, 23);
+
+}
+
+
+
+.container {
+    max-width: 900px;
+    height: 100%;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+  
+    .title {
+      font-size: 22px;
+      text-align: center;
+      padding: 15px;
+    }
+  
+    .sub-title {
+      font-size: 15px;
+      text-align: center;
+      color: gray;
+    }
+  
+    .tools {
+      button {
+        background-color: transparent;
+        border: 1px solid #1fa704;
+        border-radius: 2px;
+        margin: 0 5px;
+  
+        label {
+          cursor: pointer;
+        }
+      }
+  
+      button span {
+        display: inline-block;
+        font-size: 18px;
+        color: #1D6741;
+      }
+  
+      button small {
+        vertical-align: 4px;
+      }
+    }
+  
+    .table-contact {
+      width: 100%;
+      padding: 10px;
+  
+      .thead {
+        th {
+          text-align: left;
+          border-bottom: 2px solid #1fa704;
+  
+        }
+      }
+  
+      .tbody {
+        td {
+          font-size: 12px;
+          border-bottom: 1px solid #1fa704;
+          padding: 8px 5px;
+        }
+  
+        &.odd {
+          background-color: #C7E4A4;
+        }
+      }
+    }
+  
+  }
+
