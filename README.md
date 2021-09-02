@@ -11,9 +11,4 @@ Content :
 * The table that displays the data of the files
 * Displaying data as graphs
 
-"# Projet" 
-"# Projet" 
-"# Projet" 
-"# Projet" 
-"# Projet" 
-"# Projet" 
+
